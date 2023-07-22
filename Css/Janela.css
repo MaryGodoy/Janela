@@ -1,0 +1,14 @@
+#btn-info{
+    border: 1px;
+    background-color: transparent;
+}
+.details{
+    display: none;
+}
+.abrirJanela{
+    display: block;
+}
+div{
+    display: block;
+    width: 400px;
+}
